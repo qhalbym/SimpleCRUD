@@ -1,0 +1,25 @@
+{
+  "name": "SimpleCRUD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qhalbym/SimpleCRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qhalbym/SimpleCRUD/issues"
+  },
+  "homepage": "https://github.com/qhalbym/SimpleCRUD#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  }
+}
